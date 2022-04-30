@@ -1,5 +1,6 @@
 <img align="center" width=100% src="https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif">
 
+<<<<<<< HEAD
 <h1>Welcome to my page!</h1>
 <p></p>
 
@@ -34,3 +35,9 @@ Nice to see you there! :relaxed:
 </br>
 
 <img width=25% align="right" src="https://media.giphy.com/media/RiykPw9tgdOylwFgUe/giphy.gif">
+=======
+- I'm a Hexlet student
+- I'm a future frontend developer
+
+Nice to see you here! :relaxed:
+>>>>>>> 60c30073c9bced376adb1e55fcfc06113c15ae02
