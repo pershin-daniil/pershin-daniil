@@ -1,7 +1,7 @@
 <img align="center" width=100% src="https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif">
 
 <h1 align="center">Ready for a job with the greatest team</h1>
-<p align="center">I'm Daniil, I :heart: programming and now I'm learning for a front-end developer. Motivated, inspired, ready to work, just give my a job.<p>
+<p align="center">I'm Daniil, I :heart: programming and now I'm learning for a front-end developer.</br>Motivated, inspired, ready to work, just give my a job.<p>
 <p align='center'><b>Contact me :point_down:</b></p>
 <p align='center'>
 <a href="https://vk.com/pppershin"><img src="https://img.shields.io/badge/VK--red?style=social&logo=vk"></a>
@@ -28,6 +28,6 @@
 
 [![Pershin Daniil's GitHub stats](https://github-readme-stats.vercel.app/api?username=pppershin&show_icons=true&theme=dracula&hide_border=true)](https://github.com/pppershin/)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pppershin&theme=dracula&hide_border=true&layout=compact)](https://github.com/pppershin)
+
 </div>
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
