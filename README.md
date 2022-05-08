@@ -1,7 +1,11 @@
 <img align="center" width=100% src="https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif">
 
 <h1 align="center">Ready for a job with the greatest team</h1>
+<<<<<<< HEAD
 <p align="center">I'm Daniil, I :heart: programming and now I'm learning for a front-end developer.</br>Motivated, inspired, ready for a work.</br>[**There's a map of my repositories.**](https://github.com/pppershin/training-repository/blob/master/README.md)<p>
+=======
+<p align="center">I :heart: programming and now I'm learning for a front-end developer.</br>Motivated, inspired, ready to work, just give me a job.<p>
+>>>>>>> 34736c0f161eb375298f7ed7cd44ba23300b8be1
 <p align='center'><b>Contact me :point_down:</b></p>
 <p align='center'>
 <a href="https://vk.com/pppershin"><img src="https://img.shields.io/badge/VK--red?style=social&logo=vk"></a>
