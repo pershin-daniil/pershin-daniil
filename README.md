@@ -18,6 +18,7 @@
     <img src="https://img.shields.io/badge/-Ubuntu-dd4814?style=&logo=Ubuntu&logoColor=white" />
     <img src="https://img.shields.io/badge/-GitHub-171515?style=&logo=GitHub&logoColor=white" /> </br>
     <img src="https://img.shields.io/badge/-VScode-0078d7?style=&logo=visual-studio-code&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Neovim-69A33E?style=&logo=neovim&logoColor=white" />
   </td>
   <td width=50%>
     <img align="right" width=100% src="https://media.giphy.com/media/l0He4nkyI5cMhXzvW/giphy.gif">
