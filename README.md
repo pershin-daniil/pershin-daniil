@@ -1,7 +1,7 @@
 <img align="center" width=100% src="https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif">
 
 <h1 align="center">Ready for a job with the greatest team</h1>
-<p align="center">I :heart: programming and now I'm learning for a front-end developer.</br>Motivated, inspired, ready for a work.</br><a href="https://github.com/pppershin/training-repository/blob/master/README.md"><b>There's a map of my repositories.</b></a><p>
+<p align="center">I :heart: programming and now I'm learning for a front-end developer.</br>Motivated, inspired, ready for a work.<p>
 <p align='center'><b>Contact me :point_down:</b></p>
 <p align='center'>
 <a href="https://vk.com/pppershin"><img src="https://img.shields.io/badge/VK--red?style=social&logo=vk"></a>
