@@ -1,4 +1,5 @@
-<div style="width:100%;height:0;padding-bottom:50%;position:relative;"><iframe src="https://giphy.com/embed/Nx0rz3jtxtEre" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
+<img align="center" width=100% src="https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif">
+
 
 <h1 align="center">Ready for a job with the greatest team</h1>
 <p align="center">I :heart: programming and now I'm learning for a front-end developer.</br>Motivated, inspired, ready for a work.<p>
