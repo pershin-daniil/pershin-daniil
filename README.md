@@ -1,4 +1,4 @@
-<img align="center" width=100% src="https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif">
+<p align=center ><img width=100% src="https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif"></p>
 
 
 <h1 align="center">Ready for a job with the greatest team</h1>
