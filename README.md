@@ -1,13 +1,16 @@
-<h1 align="center">Ready for a job with the greatest team</h1>
-<p align="center">I :heart: programming and now I'm learning for a front-end developer.</br>Motivated, inspired, ready for a work.<p>
-<p align='center'><b>Contact me :point_down:</b></p>
-<p align='center'>
+# Ready for a job with the greatest team
+
+I :heart: programming and now I'm learning for a front-end developer.
+Motivated, inspired, ready for a work.
+
+Contact me :point_down:
+
 <a href="https://vk.com/pppershin"><img src="https://img.shields.io/badge/VK--red?style=social&logo=vk"></a>
 <a href="https://t.me/pppershin"><img src="https://img.shields.io/badge/telegram--red?style=social&logo=telegram"></a>
 <a href="mailto:pershin.daniil.e@gmail.com"><img src="https://img.shields.io/badge/Gmail--red?style=social&logo=gmail"></a>
 <!-- <a href=""><img src="https://img.shields.io/badge/blog--red?style=social"></a>
 </p> -->
-</br>
+
 <!--START_SECTION:waka-->
 📊 **This Week I Spent My Time On** 
 
