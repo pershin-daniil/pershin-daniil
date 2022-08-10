@@ -8,7 +8,6 @@
 <!-- <a href=""><img src="https://img.shields.io/badge/blog--red?style=social"></a>
 </p> -->
 </br>
-<div align="center">
 <!--START_SECTION:waka-->
 📊 **This Week I Spent My Time On** 
 
@@ -44,4 +43,3 @@ Python                   1 repo              ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
  Last Updated on False UTC
 <!--END_SECTION:waka-->
-</div>
