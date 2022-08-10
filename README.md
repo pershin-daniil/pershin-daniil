@@ -35,4 +35,11 @@
 </div>
 
 <!--START_SECTION:waka-->
+
+```text
+From: 02 August 2022 - To: 09 August 2022
+
+Other        26 mins         ██████████▓░░░░░░░░░░░░░░   42.32 %
+```
+
 <!--END_SECTION:waka-->
