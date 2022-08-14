@@ -11,3 +11,9 @@ Contact me :point_down:
 <a href="mailto:pershin.daniil.e@gmail.com"><img src="https://img.shields.io/badge/Gmail--red?style=social&logo=gmail"></a>
 <!-- <a href=""><img src="https://img.shields.io/badge/blog--red?style=social"></a>
 </p> -->
+<details><summary> ⏲️ waka metrics</summary>
+<p>
+  <!--START_SECTION:waka-->
+  <!--END_SECTION:waka-->
+</p>
+</details>
