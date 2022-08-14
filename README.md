@@ -11,6 +11,9 @@ Contact me :point_down:
 <a href="mailto:pershin.daniil.e@gmail.com"><img src="https://img.shields.io/badge/Gmail--red?style=social&logo=gmail"></a>
 <!-- <a href=""><img src="https://img.shields.io/badge/blog--red?style=social"></a>
 </p> -->
+
+<a href="https://www.codewars.com/users/DANPER/badges/large"></a>
+
 <details><summary> ⏲️ waka metrics</summary>
 <p>
 
