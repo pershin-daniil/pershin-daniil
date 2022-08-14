@@ -13,7 +13,9 @@ Contact me :point_down:
 </p> -->
 <details><summary> ⏲️ waka metrics</summary>
 <p>
+
   <!--START_SECTION:waka-->
+  
 ![Code Time](http://img.shields.io/badge/Code%20Time-5%20hrs%2039%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-427-blue)
@@ -100,5 +102,6 @@ Python                   1 repo              ██░░░░░░░░░�
 
  Last Updated on 14/08/2022 11:23:40 UTC
 <!--END_SECTION:waka-->
+
 </p>
 </details>
