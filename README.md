@@ -12,7 +12,7 @@ Contact me :point_down:
 <!-- <a href=""><img src="https://img.shields.io/badge/blog--red?style=social"></a>
 </p> -->
 
-<a href="https://www.codewars.com/users/DANPER/badges/large"></a>
+![Cpdewars](https://www.codewars.com/users/DANPER/badges/small)
 
 <details><summary> ⏲️ waka metrics</summary>
 <p>
