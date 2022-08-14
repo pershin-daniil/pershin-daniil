@@ -14,7 +14,7 @@ Contact me :point_down:
 
 ![Cpdewars](https://www.codewars.com/users/DANPER/badges/small)
 
-<details><summary> ⏲️ waka metrics</summary>
+<details><summary><h3> ⏲️ waka metrics </h3></summary>
 <p>
 
   <!--START_SECTION:waka-->
