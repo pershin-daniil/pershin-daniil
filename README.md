@@ -1,4 +1,5 @@
-### Looking for a job opportunity in the company with the opportunity to grow and develop. To develop and learn - my main motivation.
+# To develop and learn - my main motivation.
+### Looking for a job opportunity in the company with the opportunity to grow and develop.
 
 I :heart: programming and now I'm learning for a front-end developer.
 
@@ -14,9 +15,7 @@ Contact me :point_down:
 
 ![Cpdewars](https://www.codewars.com/users/DANPER/badges/small)
 
-Also, waka metric is available.
-
-<details><summary><h3> ⏲️ waka metrics </h3></summary>
+<details><summary><h3>⏲️ waka metrics</h3></summary>
 <p>
 
   <!--START_SECTION:waka-->
