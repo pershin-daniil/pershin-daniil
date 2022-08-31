@@ -1,9 +1,5 @@
-# To develop and learn - my main motivation.
-### Looking for a job opportunity in the company with the opportunity to grow and develop.
-
-I :heart: programming and now I'm learning for a front-end developer.
-
-Motivated, inspired, ready for a work.
+# To develop and learn - my main motivation
+### Looking for a job opportunity in the company with the opportunity to grow and develop
 
 Contact me :point_down:
 
