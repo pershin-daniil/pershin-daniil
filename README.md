@@ -17,7 +17,7 @@ Contact me :point_down:
   <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-15%20hrs%2037%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-34-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-52-blue)
 
 **🐱 My GitHub Data** 
 
@@ -90,7 +90,7 @@ Python                   1 repo              ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/pppershin/pppershin/main/charts/bar_graph.png) 
 
 
- Last Updated on 02/09/2022 00:58:15 UTC
+ Last Updated on 04/09/2022 00:57:18 UTC
 <!--END_SECTION:waka-->
 
 </p>
