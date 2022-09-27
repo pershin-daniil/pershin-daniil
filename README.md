@@ -1,10 +1,14 @@
-# To develop and learn - my main motivation
-### Looking for a job opportunity in the company with the opportunity to grow and develop
+### Hi there 👋
 
-Contact me :point_down:
+#### I'm a Front-end Web Developer working in Moscow, Russia.
 
-<a href="https://vk.com/pppershin"><img src="https://img.shields.io/badge/VK--red?style=social&logo=vk"></a>
-<a href="https://t.me/pppershin"><img src="https://img.shields.io/badge/telegram--red?style=social&logo=telegram"></a>
-<a href="mailto:pershin.daniil.e@gmail.com"><img src="https://img.shields.io/badge/Gmail--red?style=social&logo=gmail"></a>
-<!-- <a href=""><img src="https://img.shields.io/badge/blog--red?style=social"></a>
-</p> -->
+##### NOW
+
+- 📔 I am studying at [Hexlet.io](https://ru.hexlet.io/u/pppershin)
+- 💼 Open to work!
+
+##### BIO
+
+- ⚙️ I use daily: `.js`, `.html`, `.sass`, `.psd`
+- 📫 Reach me **pershin.daniil.e@gmail.com**
+- ✨ My artworks on [Proko.com](https://www.proko.com/profile/danper/albums)
