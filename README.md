@@ -11,6 +11,5 @@
 
 - ⚙️ I use daily: `.js`, `.html`, `.sass`, `.psd`
 - 📫 Reach me **pershin.daniil.e@gmail.com**
-- ✨ My artworks on [Proko.com](https://www.proko.com/profile/danper/albums)
 
 [![@pppershin's Holopin board](https://holopin.io/api/user/board?user=pppershin)](https://holopin.io/@pppershin)
