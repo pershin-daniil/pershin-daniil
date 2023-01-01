@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 📔 I am studying at [Hexlet.io](https://ru.hexlet.io/u/pppershin)
+- 🌱 Currently learning **Go**
 - 💼 Open to work!
 - 📫 Reach me **pershin.daniil.e@gmail.com**
 
