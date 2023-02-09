@@ -2,7 +2,7 @@
 
 - 🌱 Currently learning **Go**
 - 💼 Open to work!
-- 📫 Reach me **pershin.daniil.e@gmail.com**
+- 📫 Reach me **dev@pershin-daniil.ru**
 
 <!--START_SECTION:waka-->
 **I'm a Night 🦉** 
