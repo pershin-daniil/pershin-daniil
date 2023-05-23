@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🌱 Currently learning **Go**
-- 💼 Open to work!
+- 🌱 Everyday learner 
+- 💼 TrueConf Go Developer
 - 📫 Reach me **dev@pershin-daniil.ru**
 
 <!--START_SECTION:waka-->
