@@ -5,7 +5,7 @@
 - 📫 Reach me **dev@pershin-daniil.ru**
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-204.9%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-206.6%20thousand%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -36,7 +36,7 @@ Python                   1 repo              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 
 
- Last Updated on 25.09 UTC
+ Last Updated on 26.09 UTC
 <!--END_SECTION:waka-->
 
 [![@pppershin's Holopin board](https://holopin.io/api/user/board?user=pppershin)](https://holopin.io/@pppershin)
