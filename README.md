@@ -11,16 +11,18 @@
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 1 min               ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   40.90 % 
+Other                    1 min               ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   35.59 % 
+GitIgnore file           0 secs              ⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   23.51 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Goland                   3 mins              ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+ninja-chat-bank          3 mins              ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    3 mins              ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
 ```
 
 **I Mostly Code in Go** 
@@ -35,7 +37,7 @@ Lua                      1 repo              ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 
 
- Last Updated on 13.03 UTC
+ Last Updated on 14.03 UTC
 <!--END_SECTION:waka-->
 
 [![@pppershin's Holopin board](https://holopin.io/api/user/board?user=pppershin)](https://holopin.io/@pppershin)
